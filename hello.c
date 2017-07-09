@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-printf("Simple c program by zeromod");
+printf("Simple c program edited by zeromod");
 }
